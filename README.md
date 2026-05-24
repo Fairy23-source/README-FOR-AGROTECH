@@ -40,16 +40,18 @@ git clone https://github.com/Ratnadip143/Agrotech-v1.git
 ## 📸 Preview
 
 ### 🔐 Login
-![Login](c:\Users\Fairy\AppData\Local\Temp\9dd7ebd2-b714-480f-a18b-e5b680c2d736_Agrotech-v1-main.zip.736\Agrotech-v1-main\Preview-1.png)
+![Login](https://github.com/Ratnadip143/Agrotech-v1/blob/main/Preview-1.png)
 
 ### 🏠 Dashboard
-![Dashboard](c:\Users\Fairy\AppData\Local\Temp\e539ad5f-91fb-434d-bc80-65646c88aff1_Agrotech-v1-main.zip.ff1\Agrotech-v1-main\Preview-2.png)
+![Dashboard](https://github.com/Ratnadip143/Agrotech-v1/blob/main/Preview-2.png?raw=true)
+
+
 
 ### 🌱 Disease Detection
-![Detection](c:\Users\Fairy\AppData\Local\Temp\b76abe75-bf34-45c3-a404-0d73ac4d0473_Agrotech-v1-main.zip.473\Agrotech-v1-main\Preview-3.png)
+![Detection](https://github.com/Ratnadip143/Agrotech-v1/blob/main/Preview-3.png?raw=true)
 
 ### Select a Tool
-![Seect](c:\Users\Fairy\AppData\Local\Temp\ba0ce137-fc5f-42f6-bb60-27a8fec46289_Agrotech-v1-main.zip.289\Agrotech-v1-main\Preview-4.png)
+![Seect](https://github.com/Ratnadip143/Agrotech-v1/blob/main/Preview-4.png?raw=true)
 ## 📁 Project Structure
 
 ```

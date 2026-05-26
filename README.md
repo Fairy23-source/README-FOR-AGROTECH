@@ -3,7 +3,7 @@
 > Smart farming dashboard integrating IoT sensors, disease detection, and crop analysis.
 
 ![GitHub stars](https://img.shields.io/github/stars/Ratnadip143/Agrotech-v1?style=for-the-badge&logo=github) ![GitHub forks](https://img.shields.io/github/forks/Ratnadip143/Agrotech-v1?style=for-the-badge&logo=github) ![GitHub issues](https://img.shields.io/github/issues/Ratnadip143/Agrotech-v1?style=for-the-badge&logo=github) ![Last commit](https://img.shields.io/github/last-commit/Ratnadip143/Agrotech-v1?style=for-the-badge&logo=github) ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
-## 📑 Table of Contents
+##📑 Table of Contents
 
 - [Description](#description)
 - [Key Features](#key-features)
